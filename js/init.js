@@ -23,7 +23,7 @@ scriptDriver.onload = function(){
 
     var scriptApp = document.createElement('script');
 
-    scriptApp.src = 'https://tu-usuario.github.io/tourboost/js/tour.js';
+    scriptApp.src = 'https://kryptodevstudio.com//tourboost/js/tour.js';
 
     document.head.appendChild(scriptApp);
 
